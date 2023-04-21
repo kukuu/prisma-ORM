@@ -16,7 +16,7 @@ This will open up the studio in localhost:5555. Here you can interact with tha a
 npx prisma migrate dev
 ```
 
-Run above command after adding new models or modifying the existing ones in prism/schema directory.
+Run the above migration command after adding new models or modifying the existing ones in prism/schema directory.
 
 3. Seed Database
 

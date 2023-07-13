@@ -4,7 +4,7 @@
 
 Put another way, you can see the ORM as the layer or "middleware" that connects Object Oriented Programming (OOP) to relational databases (RD).
 
-When interacting with a database using OOP languages, you'll have to perform different **CRUD** operations like creating, reading, updating, patching and deleting (CRUD) data from a database. By design, you use SQL for performing these operations in relational databases (RD).
+When interacting with a database using OOP languages, you'll have to perform different **CRUD** operations like creating, reading, updating, patching and deleting (CRUD) data from a database. By design, you use SQL for performing these operations in Relational Databases (RD).
 
 While using **SQL** (Structured Query Language) for this purpose isn't necessarily a bad idea, ORM and its tools help simplify the interaction between relational databases and different OOP languages. ORM acts as a middleware by providing an abstraction layer.
 

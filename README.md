@@ -32,7 +32,7 @@ Run the above migration command after adding new models or modifying the existin
 npx prisma db seed
 ```
 
-4. References
+4. References:
 
 -  [Prisma docs](https://www.prisma.io/docs/reference/api-reference)
 

@@ -10,7 +10,7 @@ While using **SQL** (Structured Query Language) for this purpose isn't necessari
 
 ### Working with Prisma ORM
 
-1. Start prisma studio
+1. Start prisma studio:
 
 ```bash
 npx prisma studio
@@ -18,7 +18,7 @@ npx prisma studio
 
 This will open up the studio in localhost:5555. Here you can interact with tha actual database. Do CRUD operations. Filter records and view it.
 
-2. Migrate database
+2. Migrate database:
 
 ```bash
 npx prisma migrate dev
@@ -29,7 +29,7 @@ Run the above migration command after adding new models or modifying the existin
 3. Seed Database
 
 ```bash
-npx prisma db seed
+npx prisma db seed:
 ```
 
 4. References:

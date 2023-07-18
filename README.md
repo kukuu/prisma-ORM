@@ -16,7 +16,7 @@ While using **SQL** (Structured Query Language) for this purpose isn't necessari
 npx prisma studio
 ```
 
-This will open up the studio in localhost:5555. Here you can interact with tha actual database. Do CRUD operations. Filter records and view it.
+This will open up the studio in localhost:5555. Here you can interact with the actual database. Do CRUD operations. Filter records and view it.
 
 2. Migrate database:
 
